@@ -1,7 +1,7 @@
 # BlynkESP8266
 Blynk WEmos ESP8266 R1
 
-Konfigurasi Pin
+# Konfigurasi Pin
 Arduino Uno > Wemos
 
 DO > RX
