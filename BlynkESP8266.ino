@@ -13,8 +13,8 @@ DHT dht (DHTPIN, DHTTYPE);
 
 
 //hotspot
-char ssid[] = "hollanda";
-char pass[] = "dunedin1996";
+char ssid[] = "SSID name";
+char pass[] = "SSID password";
 
 // Blynk cloud server
 const char* host = "blynk.cloud";
